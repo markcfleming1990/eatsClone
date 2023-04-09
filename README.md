@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+## <h1 align=center>Just Tech News👋</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+    <img src="https://img.shields.io/github/repo-size/markcfleming1990/eatsClone" />
+    <img src="https://img.shields.io/github/languages/top/markcfleming1990/eatsClone"  />
+    <img src="https://img.shields.io/github/issues/markcfleming1990/eatsClone" />
+    <img src="https://img.shields.io/github/last-commit/markcfleming1990/eatsClone" >
+    <a href="https://twitter.com/goat904">
+        <img alt="Twitter: goat904" src="https://img.shields.io/twitter/follow/goat904.svg?style=social" target="_blank" />
+    </a>
+</p>
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+🔍 An application showing the power of tailwindCSS and how you can intergrate it into workflows. Simulates API calls for the food categories
+Netlify link: https://stunning-horse-860e4a.netlify.app
 
-### `npm start`
+## Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
 
-### `npm test`
+💾 "create-react-app", "npm install -D tailwindcss", "npx tailwindcss init", Make sure after intallation you go to your SRC/index.css and add the directives "@tailwind base", "@tailwind components", "@tailwind utilities". Further instructions can be found at https://tailwindcss.com/docs/installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage
 
-### `npm run build`
+💻 Showing the power of tailwindCSS and how it can improve work flow and size of your application.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## License
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+<br />
+This application is covered by the MIT license.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contributing
 
-### `npm run eject`
+👪 Mark Fleming
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Tests
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+✏️ no
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Questions
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+✋ contact me via meial <br />
+<br />
+:octocat: Find me on GitHub: [markcfleming1990](https://github.com/markcfleming1990)<br />
+<br />
+✉️ Email me with any questions: markcfleming1990@gmail.com<br /><br />
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+_This README was generated with ❤️ by [README-generator](https://github.com/markcfleming1990/README-generator) 🔥🔥🔥_
